@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: sobre mi
 subtitle: ¿Por qué querrías tener una cita conmigo?
 ---
