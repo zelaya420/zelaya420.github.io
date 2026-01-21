@@ -4,7 +4,7 @@ title: sobre mi
 subtitle: ¿Por qué querrías tener una cita conmigo?
 ---
 
-¡Hola a todos! Soy un apasionado de la tecnología y la informática. Actualmente tengo 21 años y estudio medicina, pero mi verdadera pasión se encuentra en el mundo del hacking ético y la programación.
+¡Hola a todos! Soy un apasionado de la tecnología y la informática. Actualmente estudio medicina, pero mi verdadera pasión se encuentra en el mundo del hacking ético y la programación.
 
 ### Mi Historia
 
@@ -19,5 +19,3 @@ Además de mi pasión por la seguridad informática, también soy un estudiante 
 En esta página web, compartiré mis experiencias, consejos y tutoriales sobre hacking ético, programación y ciberseguridad en general. Mi objetivo es difundir el conocimiento y fomentar un enfoque ético hacia la seguridad informática.
 
 Te invito a explorar mi contenido y unirte a mí en este emocionante viaje. ¡Juntos podemos aprender, crecer y hacer del mundo digital un lugar más seguro!
-
-¡Espero que este resumen capture la esencia de tu vida y pasiones para tu página web!
