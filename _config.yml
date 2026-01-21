@@ -22,7 +22,7 @@ author: Zelaya420
 navbar-links:
   Sobre mi: "/sobremi"
   Maquinas:
-    - OverTheWire: "/#overthewire"
+    - OverTheWire: "/tags#overthewire"
 
 
 ################
