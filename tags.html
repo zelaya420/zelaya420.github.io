@@ -35,3 +35,26 @@ permalink: /tags/
     </div>
 {%- endfor -%}
 </div>
+
+<script>
+(function () {
+  const hash = location.hash.replace("#", "").trim();
+  if (!hash) return;
+
+  // Ocultar/mostrar botones
+  document.querySelectorAll("a.tag-btn").forEach(a => {
+    const href = (a.getAttribute("href") || "").replace("#", "").trim();
+    a.style.display = (href === hash) ? "" : "none";
+  });
+
+  // Ocultar/mostrar secciones
+  document.querySelectorAll("h2.linked-section").forEach(h2 => {
+    const tag = (h2.id || "").trim();
+    const list = h2.nextElementSibling;
+    const show = (tag === hash);
+
+    h2.style.display = show ? "" : "none";
+    if (list) list.style.display = show ? "" : "none";
+  });
+})();
+</script>
