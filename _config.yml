@@ -23,6 +23,7 @@ navbar-links:
   Sobre mi: "/sobremi"
   Maquinas:
     - OverTheWire: "/tags#overthewire"
+    - HackTheBox:  "/tags#htb"
 
 
 ################
