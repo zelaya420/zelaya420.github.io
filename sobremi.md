@@ -1,7 +1,7 @@
 ---
 layout: page
 title: sobre mi
-subtitle: ¿Por qué querrías tener una cita conmigo?
+subtitle: 
 ---
 
 ¡Hola a todos! Soy un apasionado de la tecnología y la informática. Actualmente estudio medicina, pero mi verdadera pasión se encuentra en el mundo del hacking ético y la programación.
