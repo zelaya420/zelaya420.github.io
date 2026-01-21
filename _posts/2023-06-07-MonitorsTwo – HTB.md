@@ -19,7 +19,15 @@ MonitorsTwo es un desafío estimulante que combina habilidades de explotación d
 
 ¡Prepárate para sumergirte en MonitorsTwo y desbloquear las etapas de esta emocionante misión!
 
-## Enumeración
+## Bandit – Nivel 0
+
+Objetivo del nivel
+
+El propósito de este nivel es conectarse por primera vez al servidor del juego utilizando SSH. Para ello, deberás establecer una conexión remota al host correspondiente, usando las credenciales iniciales proporcionadas por la plataforma.
+
+Una vez que logres acceder correctamente al sistema, podrás continuar con el siguiente desafío consultando la página del Nivel 1, donde se explican las instrucciones para avanzar.
+
+Este nivel sirve como introducción al entorno de Bandit y confirma que tienes acceso funcional al servidor remoto.
 ## Escaneo de puertos
 Realizamos un análisis exhaustivo con el objetivo de identificar todos los puertos abiertos en la máquina. Durante este proceso, escaneamos y registramos cada puerto activo, lo que nos permite tener un panorama completo de los servicios y protocolos disponibles en el sistema.
 
