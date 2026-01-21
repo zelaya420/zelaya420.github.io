@@ -20,8 +20,10 @@ author: Zelaya420
 ###############################################
 
 navbar-links:
-  Sobre mi: "sobremi"
-  Maquinas: "maquina"
+  Sobre mi: "/sobremi"
+  Maquinas:
+    - OverTheWire: "/#overthewire"
+
 
 ################
 # --- Logo --- #
